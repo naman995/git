@@ -1,1 +1,1 @@
-console.log("hello world from branchA commitA");
+console.log("hello world from branchA commitB");

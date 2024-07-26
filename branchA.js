@@ -1,1 +1,1 @@
-console.log("BranchA commitD work");
+console.log("BranchB commitA work");
